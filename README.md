@@ -1,4 +1,4 @@
-Statement of Inclusion
+<a href="http://heavybit.com">Heavybit's</a> Statement of Inclusion
 =======
 
 ##We Value a Culture of Inclusion and Participation
