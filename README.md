@@ -1,4 +1,4 @@
-Statement of Conduct
+Statement of Inclusion
 =======
 
 ##We Value a Culture of Inclusion and Participation
