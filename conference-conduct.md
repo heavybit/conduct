@@ -6,7 +6,7 @@ These are our expectations for event attendees, as well as the consequences for 
 1. **Embrace collaboration:** We value a respectful and productive environment, encourage questions, and do not assume that everyone has the same context or skill-set.  
 2. **Intelligent debate is encouraged:** We challenge ideas and not people. This means we refrain from demeaning, discriminatory or harassing behavior and speech. 
 3. **Encourage a participatory environment:** We actively make space in conversations for women, minorities and traditionally marginalized individuals to participate. 
-4. **Act swiftly to correct bad behavior:** If we see inappropriate behavior, we’re all responsible for addressing it in a timely, direct, respectful and adult manner. 
+4. **Act swiftly to correct bad behavior:** If you see inappropriate behavior, regardless of your relationship to the event attendee or speaker, you are responsible for addressing it immediately in a direct, respectful and adult manner. This will ensure this behavior does not continue and negatively affect others in the community. 
 
 **We have a zero-tolerance policy for harassment:** This goes for all attendees, media, speakers, volunteers, organizers, venue staff, partners, sponsors, or exhibitors. Whether intentional or unintentional, we do not tolerate sexualized, demeaning, or insensitive content, comments or acts regarding age, gender, sexual orientation, physical ability, physical appearance, ability, race, and/or religion. Heavybit events are a place where people are free to fully express their identities. 
 
