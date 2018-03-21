@@ -5,7 +5,7 @@
 We unequivocally and without prejudice want to surround ourselves with as many talented people as we can. Software is the future and in order for it to be a good one, it should include individuals with a diverse set of values, skills, knowledge, experiences and histories. As such, we are committed to providing a friendly, safe and welcoming environment, regardless of gender, sexual orientation, ability, ethnicity, or religion.
 
 ## We Foster Participation
-We believe in encouraging participation from traditionally marginalized groups. We believe those traditionally left out of industry-shaping conversations should help design today’s developer ecosystem.  We advocate for a diverse group of experts through Heavybit’s leadership circles, speakers bureaus and mentorship pool.  We urge our event and community partners to do the same.
+We believe in encouraging participation from traditionally marginalized groups. We believe those traditionally left out of industry-shaping conversations should help design today’s developer ecosystem.  We advocate for a diverse group of experts,  founders and employees through Heavybit’s pipeline efforts, events, leadership circles, speakers bureaus and mentorship pool.  We urge our event and community partners to do the same.
 
 ## Conferences
 Heavybit has a specific set of guidelines for our larger conferences, please read our conference conduct policy [here](./conference-conduct.md).
