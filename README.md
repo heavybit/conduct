@@ -25,7 +25,7 @@ If you believe you or a Heavybit employee, 3rd party vendor, investing partner, 
   - During the investigation, the claim will be documented and tracked for reasonable progress. We strive to keep such investigations confidential provided doing so will not compromise our ability to conduct a thorough and fair investigation. 
   - If we find that harassment, discrimination, retaliation or other conduct in violation of our policy has occurred, appropriate action will be taken to resolve the matter. The law prohibits retaliation against any employee by any other employee, by a partner or by Heavybit for raising concerns pursuant to this policy or otherwise participating in any way in an investigation conducted by Heavybit.
 
-**Formal Process Offsite and Events**
+**Formal Process Offsite and Events:**
 - Report the incident verbally to a Heavybit staff member wearing an orange lanyard onsite and you’ll be directed to a Partner for more information. 
 - Please be prepared to offer as much information as possible, including the names of any potential witnesses.
   - Your claim will be documented and tracked to ensure the quality of experience for future event-goers. We strive to keep such investigations confidential provided doing so will not compromise our ability to address the immediate issue.
