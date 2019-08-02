@@ -2,21 +2,20 @@
 
 These are our expectations for event attendees, as well as the consequences for unacceptable behavior. Participation in our events and conferences requires and indicates understanding and acceptance of our conduct policy. 
 
+## Code of Conduct + Anti-Harassment Policy: 
+We maintain a strict policy prohibiting harassment on the basis of gender, gender identity and/or expression, race, skin color, religion, country of origin, sex, citizenship status, ancestry, age, physical or mental ability, medical condition, marital status, parental, pregnant, or breastfeeding status, participation or on any other basis prohibited by applicable laws.
+
+This goes for all attendees, media, speakers, volunteers, organizers, venue staff, partners, sponsors, or exhibitors. Heavybit events are a place where people are free to fully express their identities in a respectful manner. Use your best judgement when it comes to determining what is and isn’t appropriate but also familiarize yourself with [harassment defined](https://github.com/heavybit/conduct/blob/master/README.md#harassment-defined).
+
 ## Expected Behavior 
 1. **Embrace collaboration:** We value a respectful and productive participatory environment, encourage questions, and do not assume that everyone has the same background or skill-set.  
 2. **Debate constructively:** We challenge ideas and not people. This means we refrain from demeaning, discriminatory or harassing behavior and speech. 
 3. **Foster an inclusive environment:** We actively make space in conversations for women, minorities and traditionally marginalized individuals to participate and we ask that our attendees, speakers and partners do the same. 
-4. **Act swiftly to correct bad behavior:** If you see inappropriate behavior, regardless of your relationship to the event attendee or speaker, you are responsible for addressing it immediately in a direct, respectful and adult manner. This will ensure this behavior does not continue and negatively affect others in the community. 
-
-**Code of Conduct + Anti-Harassment Policy:** 
-We maintain a strict policy prohibiting harassment on the basis of gender, gender identity and/or expression, race, skin color, religion, country of origin, sex, citizenship status, ancestry, age, physical or mental ability, medical condition, marital status, parental, pregnant, or breastfeeding status, participation or on any other basis prohibited by applicable laws.
-
-This goes for all attendees, media, speakers, volunteers, organizers, venue staff, partners, sponsors, or exhibitors. Heavybit events are a place where people are free to fully express their identities in a respectful manner. Use your best judgement when it comes to determining what is and isn’t appropriate but also familiarize yourself with [harassment defined](https://github.com/heavybit/conduct/blob/master/README.md#harassment-defined). 
+4. **Act swiftly to correct bad behavior:** If you see inappropriate behavior, regardless of your relationship to the event attendee or speaker, you are responsible for addressing it immediately in a direct, respectful and adult manner. This will ensure this behavior does not continue and negatively affect others in the community.  
 
 ## What to do if you Witness or are Subjected to Unacceptable Behavior 
 **Informal Process:** 
 - If you feel comfortable doing so, tell the person engaging in the harassing and/ or discriminating behavior that their actions are not welcome and that they must stop.
-- Report the incident verbally or in writing to your manager and/or another manager with whom you feel comfortable. Under the informal process, you can still request that the manager notified speak to the alleged offender on your behalf.
 
 **Formal Process:**
 - Report the incident verbally to a Heavybit staff member wearing an orange lanyard onsite and you’ll be directed to a Partner for more information. 
