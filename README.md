@@ -26,7 +26,7 @@ If you believe you or a Heavybit employee, 3rd party vendor, investing partner, 
   - If we find that harassment, discrimination, retaliation or other conduct in violation of our policy has occurred, appropriate action will be taken to resolve the matter. The law prohibits retaliation against any employee by any other employee, by a partner or by Heavybit for raising concerns pursuant to this policy or otherwise participating in any way in an investigation conducted by Heavybit.
 
 #### Formal Process for Online Community and Online Event Incidents:
-- Report via DM to the person marked moderator.
+- Report via DM to the person marked moderator or @moderator to flag inappropriate behavior.
 - Please be prepared to offer as much information as possible, including screen names, commenter screen names, screenshots, time stamped private threads and emails. 
   - Your claim will be documented and tracked to ensure the quality of experience for future online community participants. We strive to keep such investigations confidential provided doing so will not compromise our ability to address the immediate issue.
   - Heavybit will act swiftly to address the issue and will take any actions we deem appropriate to investigate and correct the situation including expelling the individual from the online event, banning them from subsequent events and in severe cases, blacklisting them from future events and community Slack. 
