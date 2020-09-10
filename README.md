@@ -4,7 +4,7 @@ We want to surround ourselves with as many diverse voices as we can, and as a re
 
 We maintain a strict policy prohibiting harassment on the basis of gender, gender identity and/or expression, race, skin color, religion, country of origin, sex, citizenship status, ancestry, age, physical or mental ability, medical condition, marital status, parental, pregnant, or breastfeeding status, participation or on any other basis prohibited by applicable laws.
 
-This policy also covers sexual harassment, in particular what the US government deems as “quid pro quo” in which the conditions of membership or a job/promotion are tied to sex, and “hostile work environment” in which unwelcome comments or conduct present an intimidating, hostile, or offensive work environment. Heavybit’s harassment policy applies to all Heavybit employees, 3rd party vendors, investing partners, event partners, in-person and online event attendees, online community members, and Heavybit co-working space tenants.
+This policy also covers sexual harassment, in particular what the US government deems as “quid pro quo” in which the conditions of membership or a job/promotion are tied to sex, and “hostile work environment” in which unwelcome comments or conduct present an intimidating, hostile, or offensive work environment. Heavybit’s harassment policy applies to all Heavybit employees, 3rd party vendors, investing partners, event partners, event attendees, and online community members.
 
 ### HARASSMENT DEFINED
 
@@ -12,13 +12,13 @@ Harassment may be verbal, written, physical or visual and includes but isn’t l
 
 ## Reporting Harassment, Discrimination or Retaliation
 
-If you believe you or a Heavybit employee, 3rd party vendor, investing partner, event partner, in-person or online event attendee, online community member and/or co-working tenant has been subjected to any form of prohibited harassment, discrimination, or retaliation, here are a few ways to put a stop to it:
+If you believe you or a Heavybit employee, 3rd party vendor, investing partner, event partner, in-person or online event attendee, and/or online community member has been subjected to any form of prohibited harassment, discrimination, or retaliation, here are a few ways to put a stop to it:
 
 #### Informal Process: 
 - If you feel comfortable doing so, let the person engaging in the harassing and/ or discriminating behavior know that their actions are not welcome and that they must stop.
-- In the case the incident happens in-person, report it verbally or in writing to your manager and/or another manager with whom you feel comfortable. In the case that the incident happens in a Heavybit-owned online event or Slack channel, please contact the moderator. Under the informal process, you can still request that the person notified speak to the alleged offender on your behalf.
+- If the unwelcome actions continue, escalate it verbally or in writing to your manager and/or another manager with whom you feel comfortable. In the case that the incident happens during an online event or in a Heavybit Slack channel, please contact the moderator. Under the informal process, you can still request that the person notified speak to the alleged offender on your behalf.
 
-#### Formal Process for In-Person Co-Working Tenant Incidents:
+#### Formal Process for In-Person Event Incidents at a Heavybit Property:
 - Report the incident verbally or in writing to conduct@heavybit.com to reach two partners (Tom Drummond and Dana Oshiro). Please offer as much information as possible. Where appropriate, also include the names of any potential witnesses.
   - You will receive confirmation that we’ve received the complaint in 3 working days.
   - From here, Heavybit will conduct a fair, timely, and thorough investigation of the complaint and reach a conclusion based on the information gathered during the investigation.
@@ -31,8 +31,7 @@ If you believe you or a Heavybit employee, 3rd party vendor, investing partner, 
   - Your claim will be documented and tracked to ensure the quality of experience for future online community participants. We strive to keep such investigations confidential provided doing so will not compromise our ability to address the immediate issue.
   - Heavybit will act swiftly to address the issue and will take any actions we deem appropriate to investigate and correct the situation including expelling the individual from the online event, banning them from subsequent events and in severe cases, blacklisting them from future events and community Slack. 
 
-
-#### Formal Process for In-Person Non-Clubhouse Incidents:
+#### Formal Process for In-Person Private Venue Event Incidents:
 - Report the incident verbally to a Heavybit staff member wearing an orange lanyard onsite and you’ll be directed to a Partner for more information. 
 - Please be prepared to offer as much information as possible, including the names of any potential witnesses.
   - Your claim will be documented and tracked to ensure the quality of experience for future event-goers. We strive to keep such investigations confidential provided doing so will not compromise our ability to address the immediate issue.
@@ -40,7 +39,7 @@ If you believe you or a Heavybit employee, 3rd party vendor, investing partner, 
 
 ## Consequences for Discrimination, Harassment or Retaliation
 
-If we determine that any Heavybit employee, 3rd party vendor, investing partner, event partner, online or in-person event attendee or co-working tenant has engaged in behavior in violation of this policy, we will take appropriate disciplinary action. This may include: a verbal warning, written warning, immediate event removal, performance improvement plan, suspension of access to building, loss of access to building, loss of publishing and event privileges, loss of Slack access, or termination of employment or partnership. Moreover, any employee or partner who is found to have engaged in harassment may be held personally liable for damages under the law.
+If we determine that any Heavybit employee, 3rd party vendor, investing partner, event partner, online or in-person event attendee has engaged in behavior in violation of this policy, we will take appropriate disciplinary action. This may include: a verbal warning, written warning, immediate event removal, performance improvement plan, suspension of access to building, loss of access to building, loss of publishing and event privileges, loss of Slack access, block on social media or termination of employment or partnership. Moreover, any employee or partner who is found to have engaged in harassment may be held personally liable for damages under the law.
 
 ## Policy Updates + Proactive Activity Suggestions
 
